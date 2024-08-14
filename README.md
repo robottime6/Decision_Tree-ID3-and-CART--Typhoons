@@ -1,13 +1,11 @@
 <p align="center"> 
 <!--<img src="https://badges.pufler.dev/created/milaan9/Python_Decision_Tree_and_Random_Forest" alt="Created"/>-->
 <!--<a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/Python_Decision_Tree_and_Random_Forest.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a>-->
-<p> This code is sourced from <a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest"> Python_Decision_Tree_and_Random_Forest by milaan9 </a>, so all credits go to them.</p>
-<a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
+<p> This code is sourced from <a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest"> Python_Decision_Tree_and_Random_Forest by milaan9 </a>, this repo is just for a school project of mine, so all credits go to them.</p>
 </p> 
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
 <p align="center"> 
-<a href="https://mybinder.org/v2/gh/milaan9/Python_Decision_Tree_and_Random_Forest/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
-<a href="https://githubtocolab.com/milaan9/Python_Decision_Tree_and_Random_Forest"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>
+<a href="[https://githubtocolab.com/milaan9/Python_Decision_Tree_and_Random_Forest](https://colab.research.google.com/github/robottime6/Python_Decision_Tree_and_Random_Forest)"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>
 </p> 
  
  
