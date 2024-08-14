@@ -5,7 +5,7 @@
 </p> 
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
 <p align="center"> 
-<a href="[https://githubtocolab.com/milaan9/Python_Decision_Tree_and_Random_Forest](https://colab.research.google.com/github/robottime6/Python_Decision_Tree_and_Random_Forest)"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>
+<a href="https://colab.research.google.com/github/robottime6/Python_Decision_Tree_and_Random_Forest"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>
 </p> 
  
  
