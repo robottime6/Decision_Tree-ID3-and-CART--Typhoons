@@ -1,5 +1,4 @@
 <p align="center"> 
-<a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=ff3300" alt="Last Commit"/></a> 
 <!--<img src="https://badges.pufler.dev/created/milaan9/Python_Decision_Tree_and_Random_Forest" alt="Created"/>-->
 <!--<a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/Python_Decision_Tree_and_Random_Forest.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a>-->
 <a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/Python_Decision_Tree_and_Random_Forest.svg?colorB=teal&style=flat" /></a> 
